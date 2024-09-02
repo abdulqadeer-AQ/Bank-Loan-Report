@@ -26,3 +26,15 @@ This data analysis project aims to provide insights into bank loan data support 
 ### Tools & Technique 
 - MySQL - Clean Data & Exploratory Data Analysis
 - Power BI - Creating Reports & Dashboard
+### Data Cleaning/Preparation
+In this phase, remove or fill null data and duplicate values and prepare data for analysis
+1. Data loading & inspection
+2. Handling missing value
+3. Remove duplicate values & outliers
+4. Formatting the data
+### Exploratory Data Analysis(EDA)
+EDA involves exploring the statistical analysis of loan data and answering key questions such as:
+
+What is Loan Distribution and Overall Trends?
+Explore state-wise analysis.
+What are the most common purposes for loans?
