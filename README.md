@@ -35,6 +35,6 @@ In this phase, remove or fill null data and duplicate values and prepare data fo
 ### Exploratory Data Analysis(EDA)
 EDA involves exploring the statistical analysis of loan data and answering key questions such as:
 
-What is Loan Distribution and Overall Trends?
-Explore state-wise analysis.
-What are the most common purposes for loans?
+- What is Loan Distribution and Overall Trends?
+- Explore state-wise analysis.
+- What are the most common purposes for loans?
