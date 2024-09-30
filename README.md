@@ -38,3 +38,31 @@ EDA involves exploring the statistical analysis of loan data and answering key q
 - What is Loan Distribution and Overall Trends?
 - Explore state-wise analysis.
 - What are the most common purposes for loans?
+- Explore monthly-wise analysis of applicants.
+### key metrics
+**Dashboard** contains three reports:
+#### 1-Summary:
+- Total Loan Application: There are around 38.6k applications with 4.3k month-to-date and 6.9% month-over-month growth.
+- Total Funded Amount: $435.8M, with MTD of $54.0M and MoM growth of 13.0%.
+- Total Amount Received: $473.1M, with MTD of $58.1M and MoM growth of 15.8%.
+- Average Interest Rate: 12.05%, with MTD at 12.4% and month-over-month growth a 3.5%.
+- Average Debt-to-Income Ratio (DTI): 13.33%, with MTD at 13.7% and 2.7% increase month-over-month.
+- Find Good Loan Issued was 86.2% with 33.2K applications and $370.2M in funded loans.
+- Explore Bad Loan Issued was 13.8% with 5.3K applications and $65.5M funded.
+<img width="614" alt="summary" src="https://github.com/user-attachments/assets/343cfdf3-8f89-4367-8c64-1012d7f25b19">
+
+#### 2-Overview:
+This overview report provides a detailed overview of how loan applications vary based on time, geography, employment length, loan purpose, term, and home ownership status.
+- The Line-filled graph shows loan applications increasing month by month, peaking at 4.3K in December.
+- The map highlights geographic distribution. States with more loan applications are colored in darker shades.
+- Employees are 10+ years old with 8.9K loan applications.
+- Those with less than 1 year follow with 4.6K applications.
+- Debt Consolidation dominates with 18K applications.
+- Credit card refinancing follows with 5K applications.
+- 73.2% of applications are for 60-month terms & 26.8% are for 36-month terms.  
+<img width="613" alt="overview" src="https://github.com/user-attachments/assets/48678cd5-39ad-414b-bb7a-e27e7d927954">
+
+#### 3-Detail:
+The detailed table offers a comprehensive look at various loan purposes and their financial details, such as the funded amount, interest rate and monthly installments.
+
+<img width="611" alt="Detail" src="https://github.com/user-attachments/assets/8ca2cf50-215d-422b-8650-d6d706ca0952">
